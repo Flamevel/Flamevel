@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Flamevel!</h1>
-<h3 align="center">A passionate developer who is continuously improving and expanding my skill set in various areas.</h3>
+<h3 align="center">I'm a passionate developer who is always looking to improve and expand my skills in a variety of areas.</h3>
 
 ---
 
