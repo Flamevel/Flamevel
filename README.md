@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Flamevel!</h1>
-<h3 align="center">I'm a passionate developer who is always looking to improve and expand my skills in a variety of areas.</h3>
+<h1 align="left">Hi 👋, I'm Flamevel!</h1>
+<h3 align="left">I'm a passionate developer who is always looking to improve and expand my skills in a variety of areas.</h3>
+
+[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Flamevel.Flamevel)](https://github.com/Flamevel) [![GitHub followers](https://img.shields.io/github/followers/Flamevel.svg?style=social&label=Follow)](https://github.com/Flamevel?tab=followers)
+
 
 ---
 
