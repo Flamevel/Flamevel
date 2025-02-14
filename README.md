@@ -54,10 +54,21 @@
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flamevel&show_icons=true&theme=dark" height="150" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Flamevel&show_icons=true&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flamevel&hide_border=true&layout=compact&theme=dark" height="150" />
 </div>
 
 ---
 
-Thanks for stopping by! 😊🔥
+### 🏆 GitHub Trophies
+
+<div align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Flamevel&theme=darkhub&no-frame=true" height="150" />
+</div>
+
+---
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&background=151515&center=true&vCenter=true&width=435&lines=Thanks+for+stopping+by!+%F0%9F%98%8A%F0%9F%94%A5" alt="Typing SVG" /></a>
+</div>
