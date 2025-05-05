@@ -29,17 +29,17 @@
 <summary>Click to expand</summary>
   <br>
   <div align="left">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" height="30" />
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" height="30" />
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" height="30" />
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg" height="30" />
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg" height="30" />
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg" height="30" />
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" height="30" />
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg" height="30" />
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg" height="30" />
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg" height="30" />
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Lua/lua2.svg" height="30" />
+    <img src="badges/HTMLBadge.png" height="30" />
+    <img src="badges/CSSBadge.png" height="30" />
+    <img src="badges/JSBadge.png" height="30" />
+    <img src="badges/CBadge.png" height="30" />
+    <img src="badges/CSharpBadge.png" height="30" />
+    <img src="badges/PythonBadge.png" height="30" />
+    <img src="badges/LuaBadge.png" height="30" />
+    <img src="badges/MySQLBadge.png" height="30" />
+    <img src="badges/ReactBadge.png" height="30" />
+    <img src="badges/TailwindCSSBadge.png" height="30" />
+    <img src="badges/BootstrapBadge.png" height="30" />
     <br>
     <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
       <b>ℹ️ Info:</b> This is just a selection of my Skills. There are some to many more!
@@ -56,11 +56,11 @@
 <summary>Click to expand</summary>
   <br>
   <div align="left">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio1.svg" height="30" />
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello1.svg" height="30" />
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg" height="30" />
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion2.svg" height="30" />
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" height="30" />
+    <img src="badges/GitHubBadge_Flamevel.png" height="30" />
+    <img src="badges/VisualStudioBadge_Flamevel.png" height="30" />
+    <img src="badges/TrelloBadge_Flamevel.png" height="30" />
+    <img src="badges/FigmaBadge_Flamevel.png" height="30" />
+    <img src="badges/NotionBadge_Flamevel.png" height="30" />
     <br>
     <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
       <b>ℹ️ Info:</b> This is just a selection of the tools I use. There are many more in my workflow!
@@ -103,8 +103,8 @@
 ### 👥 Community & Contact
 
 <div align="left">
-  <a href="https://discord.gg/hTrvqqHA3g"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg" height="30"></a>
-  <a href="https://github.com/Flamevel"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" height="30"></a>
+  <a href="https://youtube.com/@flamevel.official?si=R0VRAETqwqHKIfWJ"><img src="badges/YouTubeBadge_Flamevel.png" height="30"></a>
+  <a href="https://discord.gg/hTrvqqHA3g"><img src="badges/DiscordBadge_Flamevel.png" height="30"></a>
 </div>
 
 
